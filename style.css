@@ -1,0 +1,25 @@
+h1 {
+  color: orange;
+}
+h2 {
+  color: orange;
+}
+ins {
+  background-color: yellow;
+}
+a {
+  background-color: yellow;
+  text-decoration: none;
+}
+body {
+  color: darkred;
+}
+ol {
+  line-height: 55px;
+}
+ul {
+  letter-spacing: 3px;
+}
+.list {
+  text-decoration: underline;
+}
